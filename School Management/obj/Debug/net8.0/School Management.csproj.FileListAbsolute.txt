@@ -1,0 +1,30 @@
+C:\Users\Denno\source\repos\School Management\School Management\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Denno\source\repos\School Management\School Management\bin\Debug\net8.0\appsettings.json
+C:\Users\Denno\source\repos\School Management\School Management\bin\Debug\net8.0\School Management.staticwebassets.runtime.json
+C:\Users\Denno\source\repos\School Management\School Management\bin\Debug\net8.0\School Management.exe
+C:\Users\Denno\source\repos\School Management\School Management\bin\Debug\net8.0\School Management.deps.json
+C:\Users\Denno\source\repos\School Management\School Management\bin\Debug\net8.0\School Management.runtimeconfig.json
+C:\Users\Denno\source\repos\School Management\School Management\bin\Debug\net8.0\School Management.dll
+C:\Users\Denno\source\repos\School Management\School Management\bin\Debug\net8.0\School Management.pdb
+C:\Users\Denno\source\repos\School Management\School Management\obj\Debug\net8.0\School Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denno\source\repos\School Management\School Management\obj\Debug\net8.0\School Management.AssemblyInfoInputs.cache
+C:\Users\Denno\source\repos\School Management\School Management\obj\Debug\net8.0\School Management.AssemblyInfo.cs
+C:\Users\Denno\source\repos\School Management\School Management\obj\Debug\net8.0\School Management.csproj.CoreCompileInputs.cache
+C:\Users\Denno\source\repos\School Management\School Management\obj\Debug\net8.0\School Management.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Denno\source\repos\School Management\School Management\obj\Debug\net8.0\School Management.RazorAssemblyInfo.cache
+C:\Users\Denno\source\repos\School Management\School Management\obj\Debug\net8.0\School Management.RazorAssemblyInfo.cs
+C:\Users\Denno\source\repos\School Management\School Management\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Denno\source\repos\School Management\School Management\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Denno\source\repos\School Management\School Management\obj\Debug\net8.0\staticwebassets\msbuild.School Management.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Denno\source\repos\School Management\School Management\obj\Debug\net8.0\staticwebassets\msbuild.build.School Management.props
+C:\Users\Denno\source\repos\School Management\School Management\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.School Management.props
+C:\Users\Denno\source\repos\School Management\School Management\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.School Management.props
+C:\Users\Denno\source\repos\School Management\School Management\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Denno\source\repos\School Management\School Management\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Denno\source\repos\School Management\School Management\obj\Debug\net8.0\scopedcss\bundle\School Management.styles.css
+C:\Users\Denno\source\repos\School Management\School Management\obj\Debug\net8.0\scopedcss\projectbundle\School Management.bundle.scp.css
+C:\Users\Denno\source\repos\School Management\School Management\obj\Debug\net8.0\School Management.dll
+C:\Users\Denno\source\repos\School Management\School Management\obj\Debug\net8.0\refint\School Management.dll
+C:\Users\Denno\source\repos\School Management\School Management\obj\Debug\net8.0\School Management.pdb
+C:\Users\Denno\source\repos\School Management\School Management\obj\Debug\net8.0\School Management.genruntimeconfig.cache
+C:\Users\Denno\source\repos\School Management\School Management\obj\Debug\net8.0\ref\School Management.dll
